@@ -1,0 +1,117 @@
+The values for test no. 0 were generated in 0.73 milliseconds!
+For test no. 0 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test0.json
+k : 5, n : 5, w : 5
+The solution for test no. 0 was found in 0.07 milliseconds!
+['W', '.', 'W', 'W', '.']           ['W', '.', 'W', 'W', 'A']
+['.', 'W', '.', 'W', 'W']           ['A', 'W', 'A', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']   ---|>   ['W', 'W', 'W', 'W', 'W']
+['.', '.', 'W', 'W', 'W']           ['A', '.', 'W', 'W', 'W']
+['.', 'W', 'W', 'W', '.']           ['.', 'W', 'W', 'W', 'A']
+
+The values for test no. 1 were generated in 0.80 milliseconds!
+For test no. 1 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test1.json
+k : 7, n : 6, w : 3
+The solution for test no. 1 was found in 0.04 milliseconds!
+['.', '.', 'W', '.', '.', '.', 'W']           ['A', '.', 'W', 'A', '.', '.', 'W']
+['W', '.', '.', 'W', 'W', '.', '.']           ['W', '.', '.', 'W', 'W', 'A', '.']
+['W', '.', 'W', 'W', 'W', '.', 'W']           ['W', '.', 'W', 'W', 'W', '.', 'W']
+['.', 'W', 'W', 'W', '.', '.', '.']   ---|>   ['.', 'W', 'W', 'W', 'A', '.', '.']
+['.', 'W', 'W', '.', '.', 'W', 'W']           ['A', 'W', 'W', '.', '.', 'W', 'W']
+['.', 'W', '.', '.', '.', '.', 'W']           ['.', 'W', '.', 'A', '.', '.', 'W']
+['.', '.', '.', '.', '.', '.', 'W']           ['.', '.', '.', '.', '.', '.', 'W']
+
+The values for test no. 2 were generated in 0.80 milliseconds!
+For test no. 2 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test2.json
+k : 8, n : 8, w : 5
+The solution for test no. 2 was found in 0.04 milliseconds!
+['.', '.', 'W', 'W', '.', '.', 'W', '.']           ['A', '.', 'W', 'W', 'A', '.', 'W', 'A']
+['W', 'W', '.', 'W', '.', 'W', 'W', 'W']           ['W', 'W', 'A', 'W', '.', 'W', 'W', 'W']
+['.', 'W', 'W', '.', '.', 'W', '.', '.']           ['A', 'W', 'W', '.', '.', 'W', 'A', '.']
+['W', 'W', '.', '.', '.', '.', '.', '.']   ---|\   ['W', 'W', 'A', '.', '.', '.', '.', '.']
+['.', '.', '.', 'W', '.', 'W', '.', '.']   ---|/   ['A', '.', '.', 'W', '.', 'W', '.', '.']
+['W', 'W', '.', '.', '.', 'W', '.', '.']           ['W', 'W', '.', '.', '.', 'W', '.', '.']
+['W', 'W', '.', '.', '.', '.', '.', '.']           ['W', 'W', '.', '.', '.', '.', '.', '.']
+['.', 'W', '.', '.', 'W', '.', '.', 'W']           ['.', 'W', '.', '.', 'W', '.', '.', 'W']
+
+The values for test no. 3 were generated in 0.87 milliseconds!
+For test no. 3 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test3.json
+k : 8, n : 6, w : 6
+The solution for test no. 3 was found in 0.04 milliseconds!
+['.', '.', 'W', 'W', 'W', '.', '.', '.']           ['A', '.', 'W', 'W', 'W', 'A', '.', '.']
+['W', 'W', 'W', 'W', '.', '.', 'W', '.']           ['W', 'W', 'W', 'W', '.', '.', 'W', 'A']
+['.', '.', '.', '.', 'W', '.', 'W', '.']           ['A', '.', '.', '.', 'W', '.', 'W', '.']
+['.', '.', 'W', 'W', '.', 'W', '.', 'W']   ---|\   ['.', '.', 'W', 'W', 'A', 'W', 'A', 'W']
+['.', 'W', '.', 'W', '.', 'W', 'W', '.']   ---|/   ['.', 'W', '.', 'W', '.', 'W', 'W', '.']
+['.', 'W', '.', 'W', '.', '.', '.', '.']           ['.', 'W', '.', 'W', '.', '.', '.', '.']
+['.', '.', 'W', 'W', 'W', '.', '.', '.']           ['.', '.', 'W', 'W', 'W', '.', '.', '.']
+['.', 'W', '.', '.', 'W', '.', '.', '.']           ['.', 'W', '.', '.', 'W', '.', '.', '.']
+
+The values for test no. 4 were generated in 0.73 milliseconds!
+For test no. 4 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test4.json
+k : 6, n : 6, w : 3
+The solution for test no. 4 was found in 0.03 milliseconds!
+['.', '.', '.', 'W', '.', '.']           ['A', '.', '.', 'W', 'A', '.']
+['.', '.', 'W', 'W', '.', 'W']           ['.', '.', 'W', 'W', '.', 'W']
+['W', '.', 'W', 'W', '.', '.']   ---|\   ['W', 'A', 'W', 'W', '.', 'A']
+['.', '.', '.', 'W', 'W', 'W']   ---|/   ['.', '.', '.', 'W', 'W', 'W']
+['.', '.', 'W', 'W', 'W', '.']           ['A', '.', 'W', 'W', 'W', 'A']
+['W', 'W', 'W', 'W', '.', 'W']           ['W', 'W', 'W', 'W', '.', 'W']
+
+The values for test no. 5 were generated in 0.55 milliseconds!
+For test no. 5 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test5.json
+k : 8, n : 5, w : 3
+The solution for test no. 5 was found in 0.04 milliseconds!
+['.', 'W', '.', '.', '.', '.', 'W', '.']           ['A', 'W', 'A', '.', '.', '.', 'W', 'A']
+['W', '.', '.', '.', '.', '.', '.', 'W']           ['W', '.', '.', '.', 'A', '.', '.', 'W']
+['.', 'W', 'W', 'W', '.', '.', '.', '.']           ['.', 'W', 'W', 'W', '.', '.', 'A', '.']
+['.', '.', 'W', '.', '.', '.', 'W', '.']   ---|\   ['.', '.', 'W', '.', '.', '.', 'W', '.']
+['W', '.', '.', '.', '.', 'W', '.', '.']   ---|/   ['W', '.', '.', '.', '.', 'W', '.', '.']
+['.', 'W', '.', '.', '.', '.', 'W', 'W']           ['.', 'W', '.', '.', '.', '.', 'W', 'W']
+['.', 'W', 'W', '.', '.', '.', '.', '.']           ['.', 'W', 'W', '.', '.', '.', '.', '.']
+['.', '.', '.', '.', '.', '.', 'W', '.']           ['.', '.', '.', '.', '.', '.', 'W', '.']
+
+The values for test no. 6 were generated in 0.64 milliseconds!
+For test no. 6 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test6.json
+k : 5, n : 5, w : 3
+The solution for test no. 6 was NOT found in 0.01 milliseconds!
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']   ---|>   ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', '.', 'W', 'W', 'W']           ['W', '.', 'W', 'W', 'W']
+
+The values for test no. 7 were generated in 0.66 milliseconds!
+For test no. 7 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test7.json
+k : 6, n : 6, w : 7
+The solution for test no. 7 was found in 0.02 milliseconds!
+['.', 'W', '.', 'W', 'W', '.']           ['A', 'W', 'A', 'W', 'W', 'A']
+['.', '.', 'W', '.', 'W', '.']           ['.', '.', 'W', '.', 'W', '.']
+['W', '.', 'W', '.', '.', 'W']   ---|\   ['W', 'A', 'W', 'A', '.', 'W']
+['W', 'W', 'W', 'W', 'W', '.']   ---|/   ['W', 'W', 'W', 'W', 'W', '.']
+['W', '.', '.', '.', '.', 'W']           ['W', 'A', '.', '.', '.', 'W']
+['W', '.', 'W', 'W', '.', 'W']           ['W', '.', 'W', 'W', '.', 'W']
+
+The values for test no. 8 were generated in 0.82 milliseconds!
+For test no. 8 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test8.json
+k : 5, n : 5, w : 6
+The solution for test no. 8 was NOT found in 0.01 milliseconds!
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']   ---|>   ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+['W', 'W', 'W', 'W', 'W']           ['W', 'W', 'W', 'W', 'W']
+
+The values for test no. 9 were generated in 0.91 milliseconds!
+For test no. 9 @ C:\Users\Marian Dumitrescu\Desktop\CA_Dumitrescu_Marian_Daniel\Code\tests\test9.json
+k : 8, n : 7, w : 5
+The solution for test no. 9 was found in 0.04 milliseconds!
+['.', 'W', 'W', '.', '.', 'W', 'W', '.']           ['A', 'W', 'W', 'A', '.', 'W', 'W', 'A']
+['.', 'W', '.', '.', '.', '.', 'W', 'W']           ['.', 'W', '.', '.', '.', 'A', 'W', 'W']
+['W', '.', '.', '.', '.', '.', '.', '.']           ['W', '.', 'A', '.', '.', '.', '.', '.']
+['W', '.', 'W', 'W', 'W', 'W', '.', '.']   ---|\   ['W', '.', 'W', 'W', 'W', 'W', '.', '.']
+['W', '.', '.', 'W', '.', '.', '.', '.']   ---|/   ['W', 'A', '.', 'W', 'A', '.', '.', '.']
+['.', 'W', '.', 'W', '.', '.', '.', '.']           ['.', 'W', '.', 'W', '.', '.', '.', '.']
+['W', '.', '.', '.', '.', 'W', '.', '.']           ['W', '.', '.', '.', '.', 'W', '.', '.']
+['.', '.', 'W', 'W', 'W', '.', '.', '.']           ['.', '.', 'W', 'W', 'W', '.', '.', '.']
+
+The program ended successfully in 15.35 milliseconds!
